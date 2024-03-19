@@ -1,51 +1,51 @@
 body {
-    background-color: white;
-    display: grid;
-    grid-template-columns: 25% 1fr;
-    gap: 15px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 25% 1fr;
+  gap: 15px;
 }
 
 div {
-    position: fixed;
-    text-align: left;
-    width: 25%;
-    overflow: scroll;
-    top: 0;
-    left: 0;
-    height: 100%;
+  position: fixed;
+  text-align: left;
+  width: 25%;
+  overflow: scroll;
+  top: 0;
+  left: 0;
+  height: 100%;
 }
 
 main {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    text-align: left;
-    margin-left: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  margin-left: 30px;
 }
 
-.nav{
-    height: fit-content;
+.nav {
+  height: fit-content;
 }
 
-.line{
-    margin: 30px auto;
-    padding-top: 10px;
-    text-align: left;
-    display: flex;
-    flex-direction: column;
-    height: 5px;
-    padding-bottom: 3px;
-    color: black;
+.line {
+  margin: 30px auto;
+  padding-top: 10px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  height: 5px;
+  padding-bottom: 3px;
+  color: black;
 }
 
 h1 {
-   text-align: center;
+  text-align: center;
 }
 
 code {
-    background-color: rgb(159, 157, 157);
-    padding: 15px;
-    border-radius: 10px;
-    opacity: 0.5;
-    margin: 0 10px;
+  background-color: rgb(159, 157, 157);
+  padding: 15px;
+  border-radius: 10px;
+  opacity: 0.5;
+  margin: 0 10px;
 }
