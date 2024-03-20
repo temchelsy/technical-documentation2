@@ -13,6 +13,7 @@ div {
   top: 0;
   left: 0;
   height: 100%;
+  border: 5px;
 }
 
 main {
@@ -36,6 +37,7 @@ main {
   height: 5px;
   padding-bottom: 3px;
   color: black;
+
 }
 
 h1 {
@@ -49,3 +51,5 @@ code {
   opacity: 0.5;
   margin: 0 10px;
 }
+
+
